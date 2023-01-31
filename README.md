@@ -1,2 +1,4 @@
-# Project-Digital-Vision
-Blueprint for the Machine learning project I currently am working on.
+# Machine_learning_1
+My first hands-on approach in machine learning
+Here i have practiced a few machine learning models and algorithms
+
